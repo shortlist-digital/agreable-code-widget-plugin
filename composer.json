@@ -1,0 +1,13 @@
+{
+    "name": "shortlist-digital/agreable-code-widget-plugin",
+    "description": "Add a code example to your content body in agreable-compatible wordpress sites",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jon Sherrard",
+            "email": "jon@andthats.it"
+        }
+    ],
+    "require": {}
+}
